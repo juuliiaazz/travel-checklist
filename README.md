@@ -8,5 +8,4 @@ En applikation med React där man kan lista allt man behöver ha med sig till si
 - Det går även att ta bort en specifik sak från listan eller rensa hela listan
 
 
-![Travel-checklist-desktop](https://github.com/juuliiaazz/travel-checklist/assets/92580700/df6426e4-1297-4054-b90c-dde3a20274f1)
-![Travel-checklist-mobile1](https://github.com/juuliiaazz/travel-checklist/assets/92580700/8f019831-85e9-449e-98cd-fc437edb2c60)
+
