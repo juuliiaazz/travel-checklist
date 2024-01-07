@@ -36,7 +36,9 @@ export default function Form({ onAddItems }) {
         value={description}
         onChange={(e) => setDescription(e.target.value)}
       />
-      <button>Add</button>
+      <button className="add-form-button">
+        <box-icon name="plus" color="black" size="lg"></box-icon>
+      </button>
     </form>
   );
 }

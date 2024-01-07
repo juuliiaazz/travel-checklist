@@ -34,9 +34,9 @@ export default function App() {
   }
 
   return (
-    <div className="app">
-      <div className="travel-background">
-        <div className="paper">
+    <div className="main-div">
+      <div className="main-row">
+        <div className="main-card">
           <Logo />
           <Form onAddItems={handleAddItems} />
           <PackingList
